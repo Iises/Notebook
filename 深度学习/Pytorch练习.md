@@ -214,6 +214,12 @@ from torch.utils.data import DataLoader
 
 
 
+
+
+
+
+![关于num_worker的一些个人理解](https://img-blog.csdnimg.cn/cc961f98d1064f629a4348404df21deb.jpeg#pic_center)
+
 ### 3.示例 ：如何使用Dataloader
 
 ```python
